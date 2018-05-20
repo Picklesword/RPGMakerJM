@@ -1,5 +1,7 @@
 [
 null,
-{"id":1,"expanded":false,"name":"MAP001","order":1,"parentId":0,"scrollX":532,"scrollY":319},
-{"id":2,"expanded":false,"name":"Matthew Test Map","order":2,"parentId":0,"scrollX":532,"scrollY":297}
+{"id":1,"expanded":false,"name":"MAP001","order":1,"parentId":0,"scrollX":718.6666666666666,"scrollY":404},
+{"id":2,"expanded":false,"name":"Matthew Test Map","order":2,"parentId":0,"scrollX":708,"scrollY":393.3333333333333},
+{"id":3,"expanded":false,"name":"Josh Test Map","order":3,"parentId":0,"scrollX":710.6666666666666,"scrollY":404},
+{"id":4,"expanded":false,"name":"Josh Test Map 2 (Sample)","order":4,"parentId":0,"scrollX":710.6666666666666,"scrollY":393.3333333333333}
 ]
