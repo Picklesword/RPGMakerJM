@@ -18,7 +18,6 @@ function Scene_Base() {
 Scene_Base.prototype = Object.create(Stage.prototype);
 Scene_Base.prototype.constructor = Scene_Base;
 
-
 /**
  * Create a instance of Scene_Base.
  * 
